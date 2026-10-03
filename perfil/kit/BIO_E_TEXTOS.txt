@@ -1,0 +1,14 @@
+KIT DO PERFIL - @audi_s3_8l_oem  (copiar e colar)
+
+NOME (campo "Nome", aparece em negrito e e o que a busca encontra):
+Audi S3 8L OEM
+
+BIO (103 de 150 caracteres):
+Audi S3 8L • 1.8 20v Turbo quattro
+Clássico preservado no Brasil
+Detalhes de fábrica e a história do 8L
+
+CATEGORIA: Automotivo
+LINK: deixar vazio por enquanto
+FOTO DE PERFIL: avatar_perfil_1080.jpg
+DESTAQUES (4): destaque_1_ficha / 2_detalhes / 3_historia / 4_mundo (.jpg)
